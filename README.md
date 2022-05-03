@@ -1,2 +1,2 @@
 # webScraping
-Collections_of_webScraping_projects
+Basic web scraping projects using scrapy
